@@ -1,0 +1,13 @@
+D:\java\test25\clock-task\src\main\java\com\clock\utils\MessageResult.java
+D:\java\test25\clock-task\src\main\java\com\clock\config\CronTaskRegistrar.java
+D:\java\test25\clock-task\src\main\java\com\clock\service\SysTaskService.java
+D:\java\test25\clock-task\src\main\java\com\clock\config\InitTaskRunner.java
+D:\java\test25\clock-task\src\main\java\com\clock\config\ScheduledTask.java
+D:\java\test25\clock-task\src\main\java\com\clock\utils\SpringContextUtil.java
+D:\java\test25\clock-task\src\main\java\com\clock\config\TaskConfig.java
+D:\java\test25\clock-task\src\main\java\com\clock\model\SysTask.java
+D:\java\test25\clock-task\src\main\java\com\clock\config\SchedulingRunnable.java
+D:\java\test25\clock-task\src\main\java\com\clock\controller\SysTaskController.java
+D:\java\test25\clock-task\src\main\java\com\clock\dao\SysTaskMapper.java
+D:\java\test25\clock-task\src\main\java\com\clock\dao\impl\SysTaskMapperImpl.java
+D:\java\test25\clock-task\src\main\java\com\clock\TaskApplication.java

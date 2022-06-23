@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "name": "ant-task.conf",
+      "type": "com.clock.config.TaskConfig",
+      "sourceType": "com.clock.config.TaskConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ant-task.conf.file-path",
+      "type": "java.lang.String",
+      "description": "任务数据配置文件存储路径(必填)",
+      "sourceType": "com.clock.config.TaskConfig"
+    },
+    {
+      "name": "ant-task.conf.pool-size",
+      "type": "java.lang.Integer",
+      "description": "定时任务线程池，默认为 6",
+      "sourceType": "com.clock.config.TaskConfig",
+      "defaultValue": 6
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,13 @@
+com\clock\model\SysTask.class
+com\clock\utils\MessageResult.class
+com\clock\config\TaskConfig.class
+com\clock\dao\SysTaskMapper.class
+com\clock\config\InitTaskRunner.class
+com\clock\service\SysTaskService.class
+com\clock\controller\SysTaskController.class
+com\clock\dao\impl\SysTaskMapperImpl.class
+META-INF\spring-configuration-metadata.json
+com\clock\config\CronTaskRegistrar.class
+com\clock\config\ScheduledTask.class
+com\clock\config\SchedulingRunnable.class
+com\clock\utils\SpringContextUtil.class
